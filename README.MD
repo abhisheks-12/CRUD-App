@@ -1,2 +1,2 @@
 ## Project Setup
-npm   ---
+readme coming soon
